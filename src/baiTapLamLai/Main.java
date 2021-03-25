@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         NhapLieu nhapLieu = new NhapLieu();
-
+//new comment
         int luaChon;
         while (true) {
             System.out.println("chon 1 de them moi sinh vien");
